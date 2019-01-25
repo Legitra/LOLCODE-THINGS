@@ -1,10 +1,3 @@
-'''
-Type(s) of error:
-    >Logical
-changes:
-    >Added brakets in meanAverage
-    >Added brakets in var
-'''
 # This is a script to calculate the variance in a set of 10 numbers
 # This is defined as the average square difference from the mean
 

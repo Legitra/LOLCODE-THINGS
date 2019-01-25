@@ -1,11 +1,3 @@
-'''
-Type(s) of error:
-    >Logical
-changes:
-    >Added brakets in the Tax and Total lines
-    >Changed prices into pounds so they matched the print statements
-'''
-
 # UK Hydrocarbon Duty (Fuel Tax) is 57.95 pence per litre of petrol.
 # VAT (sales tax) is also charged on both the fuel and the duty.
 

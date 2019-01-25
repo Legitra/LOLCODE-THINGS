@@ -1,13 +1,3 @@
-'''
-Type(s) of error:
-    >Syntax, Logical
-changes:
-    >added some comments to explain whats happening
-    >line 16: replaced the 7 so the pounds variable wasn't redundant
-    >line 16: added braket before the multiply
-    >line 18: replaced the plus with a comma because kgTotal is an int, not a str
-'''
-
 #script to convert weight in stone and pounds to kg
 # 14 pounds in a stone and one stone is 6.35029kg
 
